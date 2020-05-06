@@ -1,2 +1,2 @@
 # Rosalind
-Solutions to various bioinformatics problemsL http://rosalind.info/problems/list-view/
+Solutions to various bioinformatics problems: http://rosalind.info/problems/list-view/
