@@ -7,4 +7,4 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 
 3. [Complementing a Strand of DNA](http://rosalind.info/problems/revc/)
 
-4. [Counting Point Mutations] (http://rosalind.info/problems/hamm/)
+4. [Counting Point Mutations](http://rosalind.info/problems/hamm/)
