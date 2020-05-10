@@ -8,3 +8,7 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 3. [Complementing a Strand of DNA](http://rosalind.info/problems/revc/)
 
 4. [Counting Point Mutations](http://rosalind.info/problems/hamm/)
+
+5. [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/)
+
+6. [Computing GC Content](http://rosalind.info/problems/gc/)
