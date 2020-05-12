@@ -12,3 +12,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 5. [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/)
 
 6. [Computing GC Content](http://rosalind.info/problems/gc/)
+
+7. [Mendel's First Law](http://rosalind.info/problems/iprb/)
