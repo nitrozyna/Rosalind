@@ -14,3 +14,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 6. [Computing GC Content](http://rosalind.info/problems/gc/)
 
 7. [Mendel's First Law](http://rosalind.info/problems/iprb/)
+
+8. [Translating RNA into Protein](http://rosalind.info/problems/prot/)
