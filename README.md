@@ -16,3 +16,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 7. [Mendel's First Law](http://rosalind.info/problems/iprb/)
 
 8. [Translating RNA into Protein](http://rosalind.info/problems/prot/)
+
+9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/)
