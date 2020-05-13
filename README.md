@@ -18,3 +18,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 8. [Translating RNA into Protein](http://rosalind.info/problems/prot/)
 
 9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/)
+
+10. [Consensus and Profile](http://rosalind.info/problems/cons/)
