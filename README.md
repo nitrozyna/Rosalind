@@ -27,3 +27,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
       [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/10_cons.ipynb)
 
       [solution 2 - using numpy](https://github.com/nitrozyna/Rosalind/blob/master/10_cons_numpy.ipynb)
+
+11. [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/)
