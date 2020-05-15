@@ -17,7 +17,10 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 
 8. [Translating RNA into Protein](http://rosalind.info/problems/prot/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/8_prot.ipynb)
 
-9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/9_subs.ipynb)
+9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/):
+
+      [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/9_subs.ipynb)
+      solutions 2 - optimised
 
 10. [Consensus and Profile](http://rosalind.info/problems/cons/):
 
