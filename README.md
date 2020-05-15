@@ -19,4 +19,8 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 
 9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/9_subs.ipynb)
 
-10. [Consensus and Profile](http://rosalind.info/problems/cons/): [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/10_cons.ipynb)
+10. [Consensus and Profile](http://rosalind.info/problems/cons/):
+
+      [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/10_cons.ipynb)
+
+      [solution 2 - using numpy](https://github.com/nitrozyna/Rosalind/blob/master/10_cons_numpy.ipynb)
