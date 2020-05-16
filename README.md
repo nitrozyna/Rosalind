@@ -20,6 +20,7 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 9. [Finding a Motif in DNA](http://rosalind.info/problems/subs/):
 
       [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/9_subs.ipynb)
+      
       solutions 2 - optimised
 
 10. [Consensus and Profile](http://rosalind.info/problems/cons/):
@@ -28,4 +29,8 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 
       [solution 2 - using numpy](https://github.com/nitrozyna/Rosalind/blob/master/10_cons_numpy.ipynb)
 
-11. [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/)
+11. [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/):
+
+      [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/11_fibd.ipynb)
+
+      [solution 2 - slightly optimised](https://github.com/nitrozyna/Rosalind/blob/master/11_fibd_optimised.ipynb)
