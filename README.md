@@ -34,4 +34,4 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
       [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/11_fibd.ipynb)
 
       [solution 2 - slightly optimised](https://github.com/nitrozyna/Rosalind/blob/master/11_fibd_optimised.ipynb)
-12. [Overlap Graphs](http://rosalind.info/problems/grph/) [solution](https://github.com/nitrozyna/Rosalind/blob/master/12_grph.ipynb)
+12. [Overlap Graphs](http://rosalind.info/problems/grph/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/12_grph.ipynb)
