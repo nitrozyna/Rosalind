@@ -37,3 +37,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 12. [Overlap Graphs](http://rosalind.info/problems/grph/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/12_grph.ipynb)
 
 13.[Calculating Expected Offspring](http://rosalind.info/problems/iev/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/13_iev.ipynb)
+
+14.[Finding a Shared Motif](http://rosalind.info/problems/lcsm/)
