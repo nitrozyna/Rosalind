@@ -38,4 +38,4 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
 
 13.[Calculating Expected Offspring](http://rosalind.info/problems/iev/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/13_iev.ipynb)
 
-14.[Finding a Shared Motif](http://rosalind.info/problems/lcsm/)
+14.[Finding a Shared Motif](http://rosalind.info/problems/lcsm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/14_lcsm.ipynb)
