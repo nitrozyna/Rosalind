@@ -36,6 +36,8 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/lis
       [solution 2 - slightly optimised](https://github.com/nitrozyna/Rosalind/blob/master/11_fibd_optimised.ipynb)
 12. [Overlap Graphs](http://rosalind.info/problems/grph/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/12_grph.ipynb)
 
-13.[Calculating Expected Offspring](http://rosalind.info/problems/iev/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/13_iev.ipynb)
+13. [Calculating Expected Offspring](http://rosalind.info/problems/iev/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/13_iev.ipynb)
 
-14.[Finding a Shared Motif](http://rosalind.info/problems/lcsm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/14_lcsm.ipynb)
+14. [Finding a Shared Motif](http://rosalind.info/problems/lcsm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/14_lcsm.ipynb)
+
+15. [Independent Allels](http://rosalind.info/problems/lia/)
