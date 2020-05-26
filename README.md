@@ -21,7 +21,7 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/tre
 
       [solution 1](https://github.com/nitrozyna/Rosalind/blob/master/9_subs.ipynb)
       
-      solutions 2 - optimised
+      [solutions 2 Boyer-Moore Algorithm](https://github.com/nitrozyna/Rosalind/blob/master/9_subs_boyer_moore.ipynb)
 
 10. [Consensus and Profile](http://rosalind.info/problems/cons/):
 
