@@ -1,5 +1,5 @@
-# Rosalind
-Solutions to various [bioinformatics problems](http://rosalind.info/problems/list-view/):
+# [Rosalind](http://rosalind.info/about/)
+Solutions to various [bioinformatics problems](http://rosalind.info/problems/tree-view/):
 
 1. [Counting DNA Nucleotides](http://rosalind.info/problems/dna/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/1_dna.ipynb)
 
