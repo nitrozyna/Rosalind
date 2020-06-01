@@ -40,4 +40,7 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/tre
 
 14. [Finding a Shared Motif](http://rosalind.info/problems/lcsm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/14_lcsm.ipynb)
 
-15. [RNA Splicing](http://rosalind.info/problems/splc/)
+15. [RNA Splicing](http://rosalind.info/problems/splc/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/15_splc.ipynb)
+
+16. [Calculating Protein Mass](http://rosalind.info/problems/prtm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/16_prtm.ipynb)
+
