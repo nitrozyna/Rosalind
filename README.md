@@ -44,3 +44,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/tre
 
 16. [Calculating Protein Mass](http://rosalind.info/problems/prtm/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/16_prtm.ipynb)
 
+17. [Introduction to Random Strings](http://rosalind.info/problems/prob/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/17_mrna.ipynb)
+
