@@ -46,3 +46,5 @@ Solutions to various [bioinformatics problems](http://rosalind.info/problems/tre
 
 17. [Introduction to Random Strings](http://rosalind.info/problems/prob/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/17_mrna.ipynb)
 
+18. [http://rosalind.info/problems/pmch/](http://rosalind.info/problems/pmch/): [solution](https://github.com/nitrozyna/Rosalind/blob/master/18_pmch.ipynb)
+
